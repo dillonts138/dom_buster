@@ -11,6 +11,8 @@ https://www.selenium.dev/documentation/webdriver/getting_started/
 -This program is written in python and thus requires the python vesion
 
 -Written for the google chromw browser, will not function for other browsers
+
+
 Usage
 -----------------------------------------
 
