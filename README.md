@@ -10,6 +10,7 @@ https://www.selenium.dev/documentation/webdriver/getting_started/
 
 -This program is written in python and thus requires the python vesion
 
+-Written for the google chromw browser, will not function for other browsers
 Usage
 -----------------------------------------
 
@@ -21,7 +22,9 @@ Usage
    
    All default input payloads can be found in the culled_xss_list.txt file inside the res folder.
    Custom payloads can be used by utilizing the custom xss list flag as described below and passing the path to the file.
+   
    *WARNING*: All custom xss files should have each xss input on its own line, otherwise undefined behavior can occur.
+   
    *WARNING*: Should NOT be tested on websites you do not own or not set up for such purposes for obvious ethical reasons! 
    
    Please use responsibly.
