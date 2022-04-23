@@ -60,7 +60,10 @@ Usage
    Parameters and Options: 
 
    -h : help -description of program use, parameters, and options.
+   
    --url=, --u= : url parameter -Url path to the website to run the payload injection on.
+   
    --xpath=,--x= : [Optional] xpath parameter -Path to the element if input fields is embedded behind buttons or routing. Can be found by copying the xpath from the webpages source code in the browser's inspect tool.
+   
    --l, --list, --LIST : [Optional] custom xss list parameter: -Path to the text file that holds the custom xss calls you'd like to try on the input boxes
 
